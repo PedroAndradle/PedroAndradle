@@ -1,4 +1,4 @@
-# 🐱‍💻 Pedro Andrade
+WD# 🐱‍💻 Pedro Andrade
 
 **Desenvolvedor Back-end**
 
@@ -24,7 +24,7 @@ Te convido a me acompanhar nessa jornada 🚀
 ### 📚 Atualmente estudando
 
 - Desenvolvimento de **CRUDs**
-- Criação de **APIs REST**
+- Criação de **APIs**
 - **Node.js**
 - **Banco de dados** (modelagem, consultas e integração)
 
