@@ -23,9 +23,10 @@ Te convido a me acompanhar nessa jornada 🚀
 
 ### 📚 Atualmente estudando
 
-- Desenvolvimento de **CRUDs**
-- Criação de **APIs**
 - **Node.js**
+- **MongoDB**
+- Criação de **APIs**
+- Desenvolvimento de **CRUDs**
 - **Banco de dados** (modelagem, consultas e integração)
 
 ---
