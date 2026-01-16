@@ -25,7 +25,7 @@ Te convido a me acompanhar nessa jornada 🚀
 
 - **Node.js**
 - **Banco de dados**
-- Criação de **APIs**
+- Aplucação de **APIs**
 - Desenvolvimento de **CRUDs**
 - **Banco de dados** (modelagem, consultas e integração)
 
